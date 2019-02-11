@@ -1,16 +1,12 @@
 # live-examples
 This is a list of live web examples I have worked on:
 
-www.picturemosaics.com
+https://www.picturemosaics.com/photo-mosaic
 
-www.picturemosaics.com/photo-mosaic/
+https://www.picturemosaics.com/stream
 
-www.coinsmosaic.com
+http://www.thinkimr.com
 
-www.dmaigmosaic.com
+https://www.picturemosaics.com
 
-www.aesp25anniversary.com
-
-www.picturemosaics.com/stream
-
-www.imarketresearch.com
+http://www.coinsmosaic.com
